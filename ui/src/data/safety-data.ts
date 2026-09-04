@@ -21,7 +21,6 @@ export const documentationAreas = [
 export const hseCommitment = `Safety is our highest priority. We believe that all incidents are preventable through proper planning, competent personnel, hazard identification, effective communication, continuous training, and strong leadership. Every employee has the authority to stop any work that presents an unacceptable risk to people, equipment, property, or the environment.
 
 Our commitment is to maintain a proactive safety culture while continually improving our HSE Management System in accordance with industry best practices and the principles of internationally recognised standards.
-
-Safe Production with Zero Harm to People, Property, and the Environment.`;
+`;
 
 export const safetyMotto = "Safe Production with Zero Harm to People, Property, and the Environment";

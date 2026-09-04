@@ -7,8 +7,8 @@ export function AboutPage() {
     <>
       <PageHero
         eyebrow="About"
-        title="Built around the realities of demanding operations."
-        intro="HACKS IVOIRE DRILLING AND MINING EQUIPMENT RENTAL SERVICES is an indigenous mining support company specialising in heavy equipment rental, drilling support services, fleet management, equipment maintenance, and integrated mining logistics for the mining, exploration, quarrying, construction, and infrastructure industries throughout the Republic of Côte d'Ivoire and the wider West African region."
+        title="Built around demanding operations."
+        intro="Indigenous mining support company providing reliable equipment and professional field services throughout Côte d'Ivoire and West Africa."
         image={images.maintenanceImage}
       />
       

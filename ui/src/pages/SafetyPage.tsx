@@ -7,8 +7,8 @@ export function SafetyPage() {
     <>
       <PageHero
         eyebrow="Safety & Standards"
-        title="Safety is part of the operation."
-        intro="Safe work depends on preparation, competent people, maintained equipment and disciplined execution in the field."
+        title="Safety first, always."
+        intro="Safe operations through competent people, maintained equipment, and disciplined execution."
         image={images.maintenanceImage}
       />
 
@@ -28,7 +28,7 @@ export function SafetyPage() {
         </div>
       </section>
 
-      <section className="section section-dark">
+      {/* <section className="section section-dark">
         <div className="shell">
           <div className="placeholder-grid">
             {safetyPractices.map(([t, d]) => (
@@ -40,7 +40,7 @@ export function SafetyPage() {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
 
       <section className="section">
         <div className="shell">

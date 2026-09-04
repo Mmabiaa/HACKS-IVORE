@@ -13,8 +13,8 @@ export function RequestQuotePage() {
     <>
       <PageHero
         eyebrow="Request a Quote"
-        title="Tell us what the operation needs."
-        intro="Provide the project context, equipment or support requirement and timing. Requests are reviewed and answered with a practical next step."
+        title="Tell us what you need."
+        intro="Provide your project details and we'll respond with a tailored solution."
         image={images.drillingImage}
       />
 

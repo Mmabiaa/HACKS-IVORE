@@ -7,8 +7,8 @@ export function FieldExperiencePage() {
     <>
       <PageHero
         eyebrow="Field Experience"
-        title="Experience where the work happens."
-        intro="Representative field scenarios show how equipment, planning and practical coordination come together. Verified project profiles will be added as they become available."
+        title="Experience in action."
+        intro="Real-world case studies demonstrating our operational capabilities and project experience."
         image={images.recoveryImage}
       />
       <section className="section">

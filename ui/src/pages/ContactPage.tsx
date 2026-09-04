@@ -10,8 +10,8 @@ export function ContactPage() {
     <>
       <PageHero
         eyebrow="Contact"
-        title="Let's discuss the work ahead."
-        intro="Share the requirement, location and timing. We will review the operating context and respond with the next practical step."
+        title="Let's discuss your requirements."
+        intro="Share your project details and we'll respond with the next step."
         image={images.heroImage}
       />
       <section className="section">

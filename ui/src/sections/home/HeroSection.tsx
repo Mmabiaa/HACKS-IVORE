@@ -16,7 +16,7 @@ export function HeroSection() {
         <p className="eyebrow">Equipment • Drilling • Field Support</p>
         <h1>Reliable equipment and field support for mining excellence.</h1>
         <p className="lead">
-          HACKS IVOIRE DRILLING AND MINING EQUIPMENT RENTAL SERVICES provides heavy equipment rental, drilling support services, fleet management, equipment maintenance, and integrated mining logistics for the mining, exploration, quarrying, construction, and infrastructure industries throughout the Republic of Côte d'Ivoire and the wider West African region.
+          Heavy equipment rental, drilling support, and integrated mining logistics throughout Côte d'Ivoire and West Africa.
         </p>
         <div className="hero-actions">
           <Button asChild variant="industrial" size="lg">

@@ -8,8 +8,8 @@ export function InsightsPage() {
     <>
       <PageHero
         eyebrow="Insights"
-        title="Practical perspectives for demanding operations."
-        intro="A future editorial resource covering equipment, maintenance, drilling, field operations, safety and industry developments."
+        title="Industry insights and updates."
+        intro="Articles covering equipment, maintenance, safety, and operational best practices."
         image={images.drillingImage}
       />
       <section className="section">

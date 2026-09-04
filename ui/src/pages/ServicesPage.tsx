@@ -8,8 +8,8 @@ export function ServicesPage() {
     <>
       <PageHero
         eyebrow="Services"
-        title="Field services built for demanding operations."
-        intro="Practical equipment and field support structured around active mining, construction, drilling and earthmoving environments."
+        title="Comprehensive mining support services."
+        intro="Equipment rental, drilling support, fleet management, and field maintenance."
         image={images.drillingImage}
       />
       <section className="section">

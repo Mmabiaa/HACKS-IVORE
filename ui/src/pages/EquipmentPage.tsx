@@ -15,7 +15,7 @@ export function EquipmentPage() {
       <PageHero
         eyebrow="Equipment"
         title="Equipment for the work ahead."
-        intro="A practical catalogue covering earthmoving, haulage, material handling, drilling and field-support requirements. Specifications and availability are confirmed for each enquiry."
+        intro="Complete fleet of heavy equipment for mining, construction, and infrastructure projects."
         image={images.heroImage}
       />
 

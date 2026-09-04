@@ -12,11 +12,6 @@ export function Footer() {
         <div>
           <Brand />
           <p>Heavy equipment rental, drilling support services, fleet management, and integrated mining logistics for mining, exploration, quarrying, construction, and infrastructure industries throughout Côte d'Ivoire and West Africa.</p>
-          <Button asChild variant="industrial" size="lg">
-            <Link to="/request-quote">
-              Request a quote <ArrowRight />
-            </Link>
-          </Button>
         </div>
         <div>
           <h3>Company</h3>
