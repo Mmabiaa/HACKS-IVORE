@@ -3,6 +3,7 @@ import { ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { PageHero } from "@/sections/shared";
 import { images } from "@/data/site-data";
+import { contactInfo } from "@/data/contact-data";
 import { requirements, equipmentOptions } from "@/data/quote-data";
 
 export function RequestQuotePage() {
@@ -38,7 +39,11 @@ export function RequestQuotePage() {
             </div>
             <div className="contact-block">
               <h3>Direct contact</h3>
-              <p>Phone and email to be confirmed.</p>
+              <p>
+                Phone: {contactInfo.phones[0]}
+                <br />
+                Email: {contactInfo.email}
+              </p>
             </div>
           </div>
 

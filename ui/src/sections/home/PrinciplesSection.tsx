@@ -1,10 +1,12 @@
 import { SectionHeading } from "@/sections/shared";
 
 const principles = [
-  ["01", "Equipment Availability", "Access to equipment required for demanding operations."],
-  ["02", "Field Readiness", "Practical support designed for real working environments."],
-  ["03", "Responsive Recovery", "Support when equipment becomes stuck, immobilized or unavailable."],
-  ["04", "Preventive Maintenance", "Maintenance support designed to reduce avoidable downtime."],
+  ["01", "Experienced Leadership", "Strong leadership team with deep industry experience guiding every operation."],
+  ["02", "Well-Maintained Fleet", "Modern, well-maintained equipment fleet ensuring maximum reliability and uptime."],
+  ["03", "Skilled Personnel", "Competent operators and technicians trained to the highest safety and operational standards."],
+  ["04", "Safety Culture", "Strong Health, Safety & Environment (HSE) culture embedded across all operations."],
+  ["05", "Rapid Response", "Quick field support services and breakdown assistance to minimize downtime."],
+  ["06", "Preventive Care", "Comprehensive preventive maintenance programmes for equipment reliability."],
 ];
 
 export function PrinciplesSection() {
@@ -12,9 +14,9 @@ export function PrinciplesSection() {
     <section className="section">
       <div className="shell">
         <SectionHeading
-          eyebrow="Why Hacks Ivore"
-          title="More than equipment. Operational support."
-          intro="Equipment is one part of keeping a project moving. We connect access with practical field support, recovery, maintenance and operational coordination."
+          eyebrow="Why Choose HACKS IVOIRE"
+          title="More than equipment. Operational excellence."
+          intro="Equipment is one part of keeping a project moving. We combine quality equipment with professional support, strong safety culture, and commitment to operational excellence."
         />
         <div className="principles">
           {principles.map((x) => (

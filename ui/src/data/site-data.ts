@@ -12,26 +12,37 @@ export const navItems = [
 ] as const;
 
 export const services = [
-  { number: "01", title: "Equipment Supply", description: "Excavators, bulldozers, loaders, dump trucks, forklifts and other equipment for earthmoving, material handling and site support.", image: heroImage },
-  { number: "02", title: "Drilling Support", description: "Support for drill rig operations, mobilization and demobilization, towing, route clearing and field mechanical requirements.", image: drillingImage },
-  { number: "03", title: "Recovery & Towing", description: "Winching, equipment recovery and towing support when equipment becomes immobilized in the field.", image: recoveryImage },
-  { number: "04", title: "Fleet & Field Maintenance", description: "Lubrication, radiator servicing, equipment washing, fuel management, breakdown assistance and maintenance planning.", image: maintenanceImage },
-  { number: "05", title: "Site Support", description: "Practical equipment and field support designed around the requirements of active operations.", image: heroImage },
+  { number: "01", title: "Equipment Rental", description: "Comprehensive fleet including skidders, excavators, bulldozers, loaders, dump trucks, telehandlers, forklifts, and specialized support equipment for all mining and construction operations.", image: heroImage },
+  { number: "02", title: "Drilling Support", description: "Complete drill rig mobilisation, demobilisation, towing operations, equipment recovery, route clearing, winching operations, and field mechanical support services.", image: drillingImage },
+  { number: "03", title: "Fleet Management", description: "Daily equipment inspection, preventive maintenance programmes, mobile lubrication services, breakdown assistance, and comprehensive maintenance planning.", image: recoveryImage },
+  { number: "04", title: "Field Support Services", description: "Equipment washing, radiator cleaning, fuel management, and rapid response field maintenance to ensure maximum equipment uptime and reliability.", image: maintenanceImage },
+  { number: "05", title: "Integrated Logistics", description: "Complete mining support logistics including water bowsers, fuel bowsers, service trucks, lighting towers, air compressors, and generators for 24/7 operations.", image: heroImage },
 ];
 
 export const equipment = [
+  ["Skidders", "Heavy-duty equipment for challenging terrain", heroImage],
   ["Excavators", "Excavation, loading and earthmoving", heroImage],
   ["Bulldozers", "Site preparation, clearing and grading", recoveryImage],
+  ["Motor Graders", "Precision road grading and maintenance", maintenanceImage],
   ["Wheel Loaders", "Material handling and stockpile work", maintenanceImage],
   ["Dump Trucks", "Haulage and material movement", drillingImage],
+  ["Telehandlers", "Versatile material placement", maintenanceImage],
   ["Forklifts", "Site logistics and material handling", maintenanceImage],
+  ["Water Bowsers", "Water supply and dust suppression", drillingImage],
+  ["Fuel Bowsers", "Mobile fuel distribution", drillingImage],
+  ["Service Trucks", "Mobile workshop and field support", recoveryImage],
+  ["Lighting Towers", "Portable illumination for night work", maintenanceImage],
+  ["Air Compressors", "Compressed air supply", drillingImage],
+  ["Generators", "Reliable power generation", drillingImage],
   ["Drilling Equipment", "Drilling and operational support", drillingImage],
   ["Support Equipment", "Recovery, towing and site support", recoveryImage],
 ] as const;
 
 export const equipmentCategories = [
-  "All Equipment", "Excavators", "Bulldozers", "Loaders", "Dump Trucks",
-  "Forklifts", "Drilling Equipment", "Support Equipment",
+  "All Equipment", "Skidders", "Excavators", "Bulldozers", "Motor Graders", "Loaders", 
+  "Dump Trucks", "Telehandlers", "Forklifts", "Water Bowsers", "Fuel Bowsers", 
+  "Service Trucks", "Lighting Towers", "Air Compressors", "Generators", 
+  "Drilling Equipment", "Support Equipment",
 ] as const;
 
 export type EquipmentItem = {

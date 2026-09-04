@@ -1,6 +1,6 @@
 import { CtaBand, PageHero, SectionHeading } from "@/sections/shared";
 import { images } from "@/data/site-data";
-import { safetyPractices, documentationAreas } from "@/data/safety-data";
+import { safetyPractices, documentationAreas, hseCommitment, safetyMotto } from "@/data/safety-data";
 
 export function SafetyPage() {
   return (
@@ -11,7 +11,24 @@ export function SafetyPage() {
         intro="Safe work depends on preparation, competent people, maintained equipment and disciplined execution in the field."
         image={images.maintenanceImage}
       />
+
       <section className="section">
+        <div className="shell">
+          <SectionHeading
+            eyebrow="Health, Safety & Environment"
+            title="Our HSE Commitment"
+            intro={safetyMotto}
+          />
+          <div className="content-grid">
+            <div></div>
+            <div style={{ whiteSpace: 'pre-line' }}>
+              <p>{hseCommitment}</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="section section-dark">
         <div className="shell">
           <div className="placeholder-grid">
             {safetyPractices.map(([t, d]) => (
@@ -24,7 +41,8 @@ export function SafetyPage() {
           </div>
         </div>
       </section>
-      <section className="section section-dark">
+
+      <section className="section">
         <div className="shell">
           <SectionHeading
             eyebrow="Documentation"

@@ -74,13 +74,13 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Hacks Ivore Drilling & Mining" },
+      { title: "HACKS IVOIRE Drilling & Mining Equipment Rental Services" },
       {
         name: "description",
         content:
-          "Heavy equipment, drilling support, recovery and field maintenance for demanding mining, construction and earthmoving operations.",
+          "Heavy equipment rental, drilling support services, fleet management, and integrated mining logistics for mining, exploration, quarrying, construction, and infrastructure industries in Côte d'Ivoire and West Africa.",
       },
-      { property: "og:site_name", content: "Hacks Ivore Drilling & Mining" },
+      { property: "og:site_name", content: "HACKS IVOIRE Drilling & Mining Equipment Rental Services" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
@@ -92,7 +92,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
         rel: "stylesheet",
         href: "https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=Source+Sans+3:wght@400;500;600;700&display=swap",
       },
-      { rel: "icon", href: "/favicon.ico", type: "image/x-icon" },
+      { rel: "icon", href: "/logo.jpeg", type: "image/jpeg" },
     ],
     scripts: [
       {
@@ -100,10 +100,15 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
         children: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "Organization",
-          name: "Hacks Ivore Drilling & Mining",
+          name: "HACKS IVOIRE DRILLING AND MINING EQUIPMENT RENTAL SERVICES",
           description:
-            "Heavy equipment, drilling support and practical field services for demanding operations.",
-          areaServed: "Ghana",
+            "Heavy equipment rental, drilling support services, fleet management, equipment maintenance, and integrated mining logistics for the mining, exploration, quarrying, construction, and infrastructure industries throughout the Republic of Côte d'Ivoire and the wider West African region.",
+          areaServed: "Côte d'Ivoire and West Africa",
+          address: {
+            "@type": "PostalAddress",
+            addressCountry: "CI",
+            addressRegion: "Bouaké"
+          }
         }),
       },
     ],

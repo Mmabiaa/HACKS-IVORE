@@ -3,6 +3,7 @@ import { ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { PageHero } from "@/sections/shared";
 import { images } from "@/data/site-data";
+import { contactInfo } from "@/data/contact-data";
 
 export function ContactPage() {
   return (
@@ -18,24 +19,30 @@ export function ContactPage() {
           <div>
             <p className="eyebrow">Contact details</p>
             <div className="contact-block">
-              <h3>Office location</h3>
-              <p>Ghana — office details to be confirmed</p>
+              <h3>Company Name</h3>
+              <p>{contactInfo.companyName}</p>
             </div>
             <div className="contact-block">
-              <h3>Phone</h3>
-              <p>Contact number to be confirmed</p>
+              <h3>Head Office</h3>
+              <p>{contactInfo.office.address}</p>
+            </div>
+            <div className="contact-block">
+              <h3>Telephone</h3>
+              {contactInfo.phones.map((phone) => (
+                <p key={phone}>{phone}</p>
+              ))}
             </div>
             <div className="contact-block">
               <h3>Email</h3>
-              <p>Business email to be confirmed</p>
+              <p><a href={`mailto:${contactInfo.email}`}>{contactInfo.email}</a></p>
             </div>
             <div className="contact-block">
-              <h3>Operating regions</h3>
-              <p>Coverage confirmed per project requirement</p>
+              <h3>Website</h3>
+              <p>{contactInfo.website}</p>
             </div>
             <div className="contact-block">
-              <h3>Business hours</h3>
-              <p>Hours to be confirmed</p>
+              <h3>Operating Regions</h3>
+              <p>Republic of Côte d'Ivoire and West Africa</p>
             </div>
           </div>
           <div className="copy">
