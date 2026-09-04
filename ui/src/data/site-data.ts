@@ -12,11 +12,11 @@ export const navItems = [
 ] as const;
 
 export const services = [
-  { number: "01", title: "Equipment Rental", description: "Comprehensive fleet including skidders, excavators, bulldozers, loaders, dump trucks, telehandlers, forklifts, and specialized support equipment for all mining and construction operations.", image: heroImage },
-  { number: "02", title: "Drilling Support", description: "Complete drill rig mobilisation, demobilisation, towing operations, equipment recovery, route clearing, winching operations, and field mechanical support services.", image: drillingImage },
-  { number: "03", title: "Fleet Management", description: "Daily equipment inspection, preventive maintenance programmes, mobile lubrication services, breakdown assistance, and comprehensive maintenance planning.", image: recoveryImage },
-  { number: "04", title: "Field Support Services", description: "Equipment washing, radiator cleaning, fuel management, and rapid response field maintenance to ensure maximum equipment uptime and reliability.", image: maintenanceImage },
-  { number: "05", title: "Integrated Logistics", description: "Complete mining support logistics including water bowsers, fuel bowsers, service trucks, lighting towers, air compressors, and generators for 24/7 operations.", image: heroImage },
+  { number: "01", title: "Equipment Rental", header: "Complete Equipment Fleet", description: "Comprehensive fleet of heavy equipment for mining, construction, and infrastructure projects.", image: heroImage },
+  { number: "02", title: "Drilling Support", header: "Full Drilling Operations", description: "Complete drill rig operations, mobilization, recovery, and field mechanical support.", image: drillingImage },
+  { number: "03", title: "Fleet Management", header: "Maximum Uptime Guaranteed", description: "Preventive maintenance, inspections, and comprehensive planning for maximum uptime.", image: recoveryImage },
+  { number: "04", title: "Field Support Services", header: "Rapid Response Maintenance", description: "Rapid response maintenance, equipment care, and fuel management services.", image: maintenanceImage },
+  { number: "05", title: "Integrated Logistics", header: "24/7 Support Logistics", description: "Complete support logistics for 24/7 mining and construction operations.", image: heroImage },
 ];
 
 export const equipment = [

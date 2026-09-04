@@ -8,8 +8,8 @@ export function ServicesSection() {
       <div className="shell">
         <SectionHeading
           eyebrow="Core services"
-          title="Field services built for demanding operations."
-          intro="From earthmoving equipment to drilling, recovery and maintenance support, our services are structured around active operating environments."
+          title="Comprehensive mining support."
+          intro="Equipment, drilling, fleet management, and field services for demanding operations."
         />
         <div className="service-grid">
           {services.map((s) => (
@@ -24,6 +24,9 @@ export function ServicesSection() {
               <div className="service-card-body">
                 <span className="number">{s.number}</span>
                 <h3>{s.title}</h3>
+                <h4 style={{ fontSize: '1rem', fontWeight: '600', margin: '0.5rem 0', color: 'var(--muted-foreground)' }}>
+                  {s.header}
+                </h4>
                 <p>{s.description}</p>
                 <ArrowLink to="/services">Explore service</ArrowLink>
               </div>
