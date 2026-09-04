@@ -1,19 +1,21 @@
 import { Link } from "@tanstack/react-router";
 import { ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { images } from "@/data/site-data";
 
 export function HeroSection() {
   return (
     <section className="hero">
       <img
-        src={images.heroImage}
+        className="hero-bg"
+        src={'https://i.pinimg.com/1200x/3d/ba/13/3dba13e9a5e7b39e40b61982a86c4e1a.jpg'}
         alt="Heavy mining equipment in operation"
-        width="1920"
-        height="1080"
+        loading="eager"
+        fetchPriority="high"
+        style={{ imageRendering: 'auto' }}
       />
+      <div className="hero-overlay" aria-hidden="true" />
       <div className="shell hero-content">
-        <p className="eyebrow">Equipment • Drilling • Field Support</p>
+        <p className="text-white eyebrow">Equipment • Drilling • Field Support</p>
         <h1>Reliable equipment and field support for mining excellence.</h1>
         <p className="lead">
           Heavy equipment rental, drilling support, and integrated mining logistics throughout Côte d'Ivoire and West Africa.
