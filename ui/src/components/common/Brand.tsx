@@ -3,11 +3,12 @@ import { Link } from "@tanstack/react-router";
 export function Brand() {
   return (
     <Link to="/" className="brand" aria-label="HACKS IVOIRE home">
-      <span className="brand-mark">HI</span>
-      <span>
-        <strong>HACKS IVOIRE</strong>
-        <small>DRILLING & MINING</small>
-      </span>
+      <img 
+        src="/logo.jpg" 
+        alt="HACKS IVOIRE" 
+        className="brand-logo"
+        style={{ height: '50px', width: 'auto' }}
+      />
     </Link>
   );
 }
