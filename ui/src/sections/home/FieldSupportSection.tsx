@@ -16,7 +16,7 @@ export function FieldSupportSection() {
           <h2>Built around the realities of the field.</h2>
           <p>
             Active projects cannot always afford equipment shortages, breakdowns or unnecessary
-            downtime. Hacks Ivore works as a practical field-support partner—combining equipment
+            downtime. HACKS IVOIRE works as a practical field-support partner—combining equipment
             access with the coordination needed to keep demanding work moving.
           </p>
           <ul className="line-list">

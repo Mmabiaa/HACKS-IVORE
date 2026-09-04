@@ -2,6 +2,7 @@ import { Link } from "@tanstack/react-router";
 import { ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { navItems } from "@/data/site-data";
+import { contactInfo } from "@/data/contact-data";
 import { Brand } from "./Brand";
 
 export function Footer() {
@@ -10,12 +11,7 @@ export function Footer() {
       <div className="shell footer-grid">
         <div>
           <Brand />
-          <p>Heavy equipment, drilling support and practical field services for demanding operations.</p>
-          <Button asChild variant="industrial" size="lg">
-            <Link to="/request-quote">
-              Request a quote <ArrowRight />
-            </Link>
-          </Button>
+          <p>Heavy equipment rental, drilling support services, fleet management, and integrated mining logistics for mining, exploration, quarrying, construction, and infrastructure industries throughout Côte d'Ivoire and West Africa.</p>
         </div>
         <div>
           <h3>Company</h3>
@@ -36,16 +32,16 @@ export function Footer() {
         <div>
           <h3>Contact</h3>
           <p>
-            Phone: To be confirmed
+            Phone: {contactInfo.phones[0]}
             <br />
-            Email: To be confirmed
+            Email: {contactInfo.email}
             <br />
-            Office: Ghana — details to be confirmed
+            Office: {contactInfo.office.location}
           </p>
         </div>
       </div>
       <div className="shell footer-bottom">
-        <span>© 2026 Hacks Ivore Drilling & Mining.</span>
+        <span>© 2026 HACKS IVOIRE Drilling & Mining Equipment Rental Services.</span>
         <span>Equipment • Drilling • Field Support</span>
       </div>
     </footer>

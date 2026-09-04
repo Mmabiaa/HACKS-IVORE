@@ -1,87 +1,106 @@
-# Hacks Ivore Drilling & Mining
+# HACKS IVOIRE Drilling & Mining Equipment Rental Services
 
-**Equipment and field support that keeps operations moving.**
+**Safe Production with Zero Harm to People, Property, and the Environment**
 
-## About Hacks Ivore
+## About HACKS IVOIRE
 
-Hacks Ivore is an emerging Ghanaian equipment and field-support company focused on the practical requirements of mining, construction, drilling and earthmoving work. We provide heavy equipment, drilling support, recovery, towing and field maintenance services for demanding mining, construction and earthmoving operations across Ghana.
+HACKS IVOIRE DRILLING AND MINING EQUIPMENT RENTAL SERVICES is an indigenous mining support company specialising in heavy equipment rental, drilling support services, fleet management, equipment maintenance, and integrated mining logistics for the mining, exploration, quarrying, construction, and infrastructure industries throughout the Republic of Côte d'Ivoire and the wider West African region.
 
-Built around the realities of demanding operations, we combine equipment access with practical field support, recovery, maintenance and operational coordination to help keep active projects moving.
+We are committed to providing reliable equipment, highly skilled personnel, and innovative operational solutions that enhance productivity while maintaining the highest standards of safety, quality, and environmental responsibility. Our services are designed to support clients through every stage of their operations, from exploration and mobilisation to project completion.
 
 ## Our Services
 
-### 1. Equipment Supply
-Excavators, bulldozers, loaders, dump trucks, forklifts and other equipment for earthmoving, material handling and site support.
+### Equipment Rental
+- **Skidders** - Heavy-duty equipment for logging and material handling operations
+- **Excavators** - Tracked and wheeled excavators for bulk excavation, trenching and loading
+- **Bulldozers** - Crawler bulldozers for site preparation, clearing and grading
+- **Backhoes** - Versatile equipment for excavation and loading operations
+- **Motor Graders** - Precision grading for road construction and maintenance
+- **Wheel Loaders** - Material handling and stockpile work
+- **Dump Trucks** - Articulated and rigid dump trucks for haulage operations
+- **Telehandlers** - Versatile material handling for elevated work
+- **Forklifts** - Industrial forklifts for yard logistics and material handling
+- **Water Bowsers** - Water supply and dust suppression equipment
+- **Fuel Bowsers** - Mobile fuel distribution and refueling support
+- **Service Trucks** - Mobile workshop and field support vehicles
+- **Lighting Towers** - Portable illumination for night operations
+- **Air Compressors** - Compressed air supply for drilling and pneumatic tools
+- **Generators** - Reliable power generation for remote operations
 
-**Typical Applications:**
-- Earthmoving, excavation and loading operations
-- Site preparation, clearing and grading
-- Material handling and stockpile work
+### Drilling Support Services
+- **Drill Rig Mobilisation** - Professional rig transport and setup services
+- **Drill Rig Demobilisation** - Safe breakdown and equipment removal
+- **Rig Towing Operations** - Specialized towing for drill rigs
+- **Equipment Recovery** - Recovery operations for immobilized equipment
+- **Route Clearing** - Access preparation and route development
+- **Winching Operations** - Professional winching and recovery support
+- **Field Mechanical Support** - On-site maintenance and repair services
 
-### 2. Drilling Support
-Support for drill rig operations, mobilization and demobilization, towing, route clearing and field mechanical requirements.
-
-**Typical Applications:**
-- Rig moves, route clearing and operational support
-- Drilling and support equipment provision
-- Mobilization route, site access coordination
-
-### 3. Recovery & Towing
-Winching, equipment recovery and towing support when equipment becomes immobilized in the field.
-
-**Typical Applications:**
-- Immobilized equipment and difficult terrain recovery
-- Recovery, towing and winching equipment
-- Safe recovery plan execution
-
-### 4. Fleet & Field Maintenance
-Lubrication, radiator servicing, equipment washing, fuel management, breakdown assistance and maintenance planning.
-
-**Typical Applications:**
-- Breakdown response and preventive care
-- Service tools, wash equipment and support vehicles
-- Inspection needs, service intervals and site procedures
-
-### 5. Site Support
-Practical equipment and field support designed around the requirements of active operations.
-
-**Typical Applications:**
-- Active mine, quarry and construction operations
-- Equipment selected around specific requirements
-- Site logistics, operating procedures and coordination
+### Fleet Support Services
+- **Daily Equipment Inspection** - Comprehensive pre-operational checks
+- **Preventive Maintenance** - Scheduled maintenance programmes
+- **Mobile Lubrication Services** - On-site lubrication and fluid services
+- **Breakdown Assistance** - Rapid response field support
+- **Equipment Washing** - Professional equipment cleaning services
+- **Radiator Cleaning** - Cooling system maintenance
+- **Fuel Management** - Fuel supply and monitoring systems
+- **Maintenance Planning** - Strategic maintenance scheduling
 
 ## Equipment Catalogue
 
-Our practical catalogue covers:
+Our comprehensive fleet includes:
 
+- **Skidders** - Heavy-duty equipment for challenging terrain operations
 - **Excavators** - Tracked and wheeled excavators for bulk excavation, trenching and loading
 - **Bulldozers** - Crawler bulldozers for site preparation, clearing and grading
-- **Loaders** - Wheel loaders and backhoe loaders for material handling
-- **Dump Trucks** - Articulated and rigid dump trucks for haulage operations
+- **Backhoes** - Versatile backhoe loaders for combined excavation and loading
+- **Motor Graders** - Precision grading equipment for road construction
+- **Wheel Loaders** - Material handling and stockpile management
+- **Dump Trucks** - Articulated and rigid dump trucks for material haulage
+- **Telehandlers** - Telescopic handlers for versatile material placement
 - **Forklifts** - Industrial forklifts for yard logistics and material handling
-- **Drilling Equipment** - Drill rig support units and route clearing equipment
-- **Support Equipment** - Recovery units, field service vehicles, and wash units
+- **Water Bowsers** - Water transport and dust suppression units
+- **Fuel Bowsers** - Mobile fuel distribution systems
+- **Service Trucks** - Fully equipped mobile workshop vehicles
+- **Lighting Towers** - Portable lighting for 24-hour operations
+- **Air Compressors** - High-capacity air supply equipment
+- **Generators** - Reliable power generation units
+- **Drilling Equipment** - Drill rig support units and specialized equipment
+- **Support Equipment** - Recovery units, field service vehicles, and auxiliary equipment
 
 *Specifications and availability are confirmed for each enquiry.*
 
 ## Core Values
 
-- **Safety** - Equipment inspection, competent operation, PPE, and risk awareness
-- **Reliability** - Dependable equipment access and responsive support
-- **Discipline** - Professional execution and adherence to site procedures
-- **Responsiveness** - Quick recovery and breakdown assistance when needed
-- **Professionalism** - Practical coordination with client teams and stakeholders
+- **Safety First** - Safety is the foundation of everything we do. Every task can be completed safely without compromising people, property, or the environment.
+- **Integrity** - We conduct our business honestly, ethically, transparently, and responsibly.
+- **Professionalism** - We deliver services through competent personnel, disciplined execution, and internationally recognised operational standards.
+- **Reliability** - We provide dependable equipment, responsive support, and consistent operational performance.
+- **Continuous Improvement** - We continually invest in our people, equipment, technology, and management systems to improve efficiency and service quality.
+- **Customer Focus** - Our clients' success is our priority, and we are committed to exceeding expectations on every project.
 
 ## Safety & Standards
 
-Safety is part of the operation. Our approach centers on:
+Safety is our highest priority. We believe that all incidents are preventable through proper planning, competent personnel, hazard identification, effective communication, continuous training, and strong leadership.
 
+**Our HSE Commitment:**
+- Every employee has the authority to stop any work that presents an unacceptable risk to people, equipment, property, or the environment
+- Maintain a proactive safety culture through comprehensive risk assessments
+- Daily toolbox meetings for hazard awareness and communication
+- Preventive maintenance programmes to ensure equipment reliability
+- Continuous training and competency development
+- Strict compliance with client and statutory requirements
+- Strong HSE Management System aligned with international best practices
+
+**Our Safety Approach:**
 - Equipment inspection and condition awareness
 - Competent personnel and operator training
 - Proper PPE and protective equipment
 - Site procedures and environmental controls
 - Risk awareness and preventive maintenance
 - Clear planning and communication
+
+**Company Motto:** Safe Production with Zero Harm to People, Property, and the Environment
 
 ## Technology Stack
 
@@ -199,22 +218,23 @@ npm run format
 
 ## Contact
 
-**Hacks Ivore Drilling & Mining**
+**HACKS IVOIRE DRILLING AND MINING EQUIPMENT RENTAL SERVICES**
 
-- **Location:** Ghana (office details to be confirmed)
-- **Phone:** Contact number to be confirmed
-- **Email:** Business email to be confirmed
+- **Head Office:** Bouaké, Republic of Côte d'Ivoire
+- **Telephone:** +225 074 778 9286 | +225 070 105 0182 | +225 078 886 9295
+- **Email:** info@hacksivoire.com
+- **Website:** www.hacksivoire.com
 
 For project inquiries, equipment requests, or operational support needs, please visit our website and submit a quote request.
 
 ## Operating Regions
 
-Coverage confirmed per project requirement across Ghana.
+Republic of Côte d'Ivoire and the wider West African region.
 
 ## License
 
-© 2026 Hacks Ivore Drilling & Mining. All rights reserved.
+© 2026 HACKS IVOIRE DRILLING AND MINING EQUIPMENT RENTAL SERVICES. All rights reserved.
 
 ---
 
-**Built for demanding operations. Designed for reliability.**
+**Safe Production with Zero Harm to People, Property, and the Environment**
