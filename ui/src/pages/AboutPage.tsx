@@ -37,11 +37,7 @@ export function AboutPage() {
 
       <section className="section section-dark">
         <div className="shell">
-          <SectionHeading
-            eyebrow="Vision & Mission"
-            title="Our Vision and Mission"
-            intro="Driving excellence in mining support services across West Africa."
-          />
+
           <div className="content-grid">
             <div></div>
             <div>
