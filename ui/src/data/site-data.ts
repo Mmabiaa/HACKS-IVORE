@@ -39,9 +39,9 @@ export const equipment = [
 ] as const;
 
 export const equipmentCategories = [
-  "All Equipment", "Skidders", "Excavators", "Bulldozers", "Motor Graders", "Loaders", 
-  "Dump Trucks", "Telehandlers", "Forklifts", "Water Bowsers", "Fuel Bowsers", 
-  "Service Trucks", "Lighting Towers", "Air Compressors", "Generators", 
+  "All Equipment", "Skidders", "Excavators", "Bulldozers", "Motor Graders", "Loaders",
+  "Dump Trucks", "Telehandlers", "Forklifts", "Water Bowsers", "Fuel Bowsers",
+  "Service Trucks", "Lighting Towers", "Air Compressors", "Generators",
   "Drilling Equipment", "Support Equipment",
 ] as const;
 
