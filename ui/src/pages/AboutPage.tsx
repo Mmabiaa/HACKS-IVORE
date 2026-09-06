@@ -11,10 +11,13 @@ export function AboutPage() {
         intro="Indigenous mining support company providing reliable equipment and professional field services throughout Côte d'Ivoire and West Africa."
         image={images.maintenanceImage}
       />
-      
+
       <section className="section">
         <div className="shell content-grid">
-          <p className="eyebrow">Company Overview</p>
+          <div>
+            <p className="eyebrow">Company Overview</p>
+            <img src={images.heroImage} alt="Company overview" className="content-grid-image" />
+          </div>
           <div>
             <article>
               <h2>About Us</h2>
@@ -39,7 +42,9 @@ export function AboutPage() {
         <div className="shell">
 
           <div className="content-grid">
-            <div></div>
+            <div>
+              <img src={images.recoveryImage} alt="Vision and mission" className="content-grid-image" />
+            </div>
             <div>
               <article>
                 <h2>Our Vision</h2>
@@ -81,7 +86,9 @@ export function AboutPage() {
             intro="Clear goals driving our commitment to excellence."
           />
           <div className="content-grid">
-            <div></div>
+            <div>
+              <img src={images.drillingImage} alt="Strategic objectives" className="content-grid-image" />
+            </div>
             <ul style={{ listStyle: 'none', padding: 0 }}>
               {objectives.map((objective, index) => (
                 <li key={index} style={{ marginBottom: '1rem', paddingLeft: '1.5rem', position: 'relative' }}>
@@ -102,7 +109,9 @@ export function AboutPage() {
             intro={ceoMessage.name + " — " + ceoMessage.title}
           />
           <div className="content-grid">
-            <div></div>
+            <div>
+              <img src={images.maintenanceImage} alt="CEO message" className="content-grid-image" />
+            </div>
             <div style={{ whiteSpace: 'pre-line' }}>
               <p>{ceoMessage.message}</p>
             </div>
@@ -118,7 +127,9 @@ export function AboutPage() {
             intro={operationsManagerMessage.name + " — " + operationsManagerMessage.title}
           />
           <div className="content-grid">
-            <div></div>
+            <div>
+              <img src={images.recoveryImage} alt="Operations manager message" className="content-grid-image" />
+            </div>
             <div style={{ whiteSpace: 'pre-line' }}>
               <p>{operationsManagerMessage.message}</p>
             </div>
